@@ -33,7 +33,7 @@
     color: var(--heading-color);
 }
 
-.newsletter__inpt input:focus {
+.newsletter__input input:focus {
     outline: none;
 }
 
