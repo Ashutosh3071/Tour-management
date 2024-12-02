@@ -1,3 +1,5 @@
+![Screenshot 2024-12-01 093615](https://github.com/user-attachments/assets/35843ef0-a33a-4075-88f3-83139c148570)
+
 <h1 align="center">Tour Management System</h1>  
 
 ## Overview
@@ -62,10 +64,7 @@ npm install
 
 3. Configure the database:
 
-Create a database and import the provided SQL file (database.sql).
-
 Update database credentials in the configuration file (config.js or .env).
-
 
 
 4. Start the application:
