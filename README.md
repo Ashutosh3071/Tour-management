@@ -82,16 +82,21 @@ http://localhost:8000
 
 Contributions are welcome! Please fork the repository and create a pull request for any features or fixes you'd like to add.
 
-## License
+##  License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+[MIT](https://choosealicense.com/licenses/mit/) © [Ashutosh Sahoo](https://github.com/Ashutosh3071)
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 
 ## Contact
 
 For questions or suggestions, feel free to reach out:
 
-## Author: Ashutosh Sahoo
+## Author
 
-## Website: 
+https://github.com/Ashutosh3071
 
-## Email: ashutoshsahoo753@gmail.com
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
