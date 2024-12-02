@@ -10,6 +10,7 @@ import userRoute from './routes/users.js';
 import authRoute from './routes/auth.js';
 import reviewRoute from './routes/reviews.js';
 import bookingRoute from './routes/bookings.js';
+import path from "path";
 
 
 dotenv.config();
@@ -36,6 +37,9 @@ const connect = async()=>{
     }
 };
 
+const _dirname = path.resolve();
+
+
 app.use(express.json());
 app.use(cors(corsOptions));
 app.use(cookieParser());
@@ -44,6 +48,11 @@ app.use('/api/v1/tours', tourRoute);
 app.use('/api/v1/users', userRoute);
 app.use('/api/v1/review', reviewRoute);
 app.use('/api/v1/booking', bookingRoute);
+
+app.use(express.static(path.join(_dirname, "/frontend/build")));
+app.get('*', (_,res) => {
+    res.sendFile(path.resolve(_dirname, "frontend", "build", "index.html"));
+});
 
 app.listen(port, ()=>{
     connect();
