@@ -53,7 +53,7 @@ Additional Tools: REST APIs, Payment Gateway Integration
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/tour-management.git  
+git clone https://github.com/Ashutosh3071/tour-management.git  
 cd tour-management
 
 
@@ -86,7 +86,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 [MIT](https://choosealicense.com/licenses/mit/) © [Ashutosh Sahoo](https://github.com/Ashutosh3071)
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-- 
+  
 ## Contact
 
 For questions or suggestions, feel free to reach out:
