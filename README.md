@@ -1,4 +1,4 @@
-![Screenshot 2024-12-01 093615](https://github.com/user-attachments/assets/35843ef0-a33a-4075-88f3-83139c148570)
+![Screenshot 2024-12-01 093615](https://github.com/user-attachments/assets/8c0db419-2298-471f-a85b-36a583e61ef7)
 
 <h1 align="center">Tour Management System</h1>  
 
